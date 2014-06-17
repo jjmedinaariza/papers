@@ -2,6 +2,6 @@ Title: Best paper ever
 Author: Juanjo Medina
 Introduction: Unsure
 Analysis:
-Discussion:
-Conclusion:
+Discussion: I am having some amasing stuff here
+Conclusion: 
 References
