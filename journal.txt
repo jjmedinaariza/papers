@@ -4,4 +4,4 @@ Introduction: Unsure
 Analysis:
 Discussion: I am having some amasing stuff here
 Conclusion: This will change the world
-References
+References: references.txt
