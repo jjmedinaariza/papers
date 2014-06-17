@@ -1,5 +1,5 @@
-Title: Best paper ever, but suddenly not so sure about it
-Author: Juanjo Medina
+Title: A paper with John for a conference
+Authors: John Smith and Juanjo Medina
 Introduction: Unsure
 Analysis:
 Discussion: I am having some amasing stuff here
